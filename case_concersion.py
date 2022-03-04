@@ -1,0 +1,5 @@
+text_ = input("Please Enter String To Convert it to Upper Case or To Lower Case:")
+print("Your Entered String Is: ", text_)
+print("Converted Uppercase String Is: ", text_.upper())
+print("Converted Lowercase String Is: ", text_.lower())
+print("Converted Capitalize(First Letter Uppercase) String Is: ", text_.capitalize())
