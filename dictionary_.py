@@ -1,3 +1,5 @@
+# Dictionary in python :
+
 students = {"Name": "Mazharul", "Id": "171-15-1425", "CGPA": 3.97, "Degree": "B.Sc.", "Occupation": "Software-Engineer"}
 print("The Defined Dictionary for student:", students)
 print("Access Student-Dictionary Keys only using loop:")
@@ -5,6 +7,7 @@ for col in students:
     print(col)
 
 print("Access Student-Dictionary Keys only without loop:", students.keys())
+print("Access Student-Dictionary Value only without loop:", students.values())
 
 print("Access Student-Dictionary Keys and Values:")
 for keys in students:
