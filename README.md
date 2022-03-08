@@ -8,3 +8,8 @@ This programm is for removing extra space
    or both (if any)
     with user requirements
 
+# Notes:
+String Properties: String Is 'IMMUTABLE ( Can't be modified )'
+List Properties: List Is 'MUTABLE ( Can be modified )'
+Tuples Properties: Tuples are 'IMMUTABLE ( Can't be modified )'
+
