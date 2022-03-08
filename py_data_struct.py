@@ -8,7 +8,7 @@
 print("===== Let's Perform Some Data Structure Operations in python: =====\n")
 elements = [3, 4, 5, "start1"]
 db_2 = [99, "primary", 99, "End", "db_2"]
-optional = ["#", "!", "$", "@", "z"]
+optional = ["3", "#", "1", "!", "4", "$", "2",  "@", "z"]
 
 initial_elements = tuple(elements)
 print("Original Elements:", elements)
@@ -39,6 +39,9 @@ print("\n\tHow many times '99' in elements: ", elements.count(99))
 
 # sorting element's value:
 optional.sort()
-print("The Sorted Form of optional is: ", optional)
+print("The Sorted Form(ASC-order) of optional is: ", optional)
+
+optional.sort(reverse=True)
+print("The Sorted Form(Descending-order) of optional is: ", optional)
 
 print("Initial Elements:", list(initial_elements))
