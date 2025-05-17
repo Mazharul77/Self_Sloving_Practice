@@ -1,4 +1,4 @@
-n =  int(input('Enter No of inputs as length:'))
+n = int(input('Enter No of inputs as length:'))
 l1 = []
 l2 = []
 print('Now Enter numbers as pairs at each input line:')
