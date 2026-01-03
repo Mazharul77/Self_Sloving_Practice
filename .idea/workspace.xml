@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b803361-cea7-4e26-b892-1afee1e6d9f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Self_Sloving_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Self_Sloving_Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lc_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/lc_algorithm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +31,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.file_operation">
-    <configuration name="circle_volume_clac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lc_algorithm">
+    <configuration name="encoding_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Self_Sloving_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,7 +50,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/circle_volume_clac.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encoding_dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,20 +59,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="equation_solve" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Self_Sloving_Practice" />
+    <configuration name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mathematic_package/algebra" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="E:\Python\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="E:/Python_OOP" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mathematic_package/algebra/equation_solve.py" />
+      <option name="SCRIPT_NAME" value="E:/Python_OOP/generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lc_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Self_Sloving_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +94,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_operation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lc_algorithm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list_index_positional_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Self_Sloving_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_index_positional_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="split_join_py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="run_length_encoding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Self_Sloving_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,29 +160,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split_join_py.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="volume" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Self_Sloving_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mathematic_package/geometry" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mathematic_package/geometry/volume.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_length_encoding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.file_operation" />
-        <item itemvalue="Python.split_join_py" />
-        <item itemvalue="Python.circle_volume_clac" />
-        <item itemvalue="Python.volume" />
-        <item itemvalue="Python.equation_solve" />
+        <item itemvalue="Python.lc_algorithm" />
+        <item itemvalue="Python.run_length_encoding" />
+        <item itemvalue="Python.encoding_dictionary" />
+        <item itemvalue="Python.list_index_positional_data" />
+        <item itemvalue="Python.generator" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +208,56 @@
       <workItem from="1647101617437" duration="1777000" />
       <workItem from="1647103430737" duration="1777000" />
       <workItem from="1647105284406" duration="1776000" />
-      <workItem from="1647107090951" duration="720000" />
+      <workItem from="1647107090951" duration="1782000" />
+      <workItem from="1647108905824" duration="1781000" />
+      <workItem from="1647110720148" duration="1782000" />
+      <workItem from="1647112530468" duration="1971000" />
+      <workItem from="1647114728017" duration="1105000" />
+      <workItem from="1647133305782" duration="595000" />
+      <workItem from="1647146161745" duration="1733000" />
+      <workItem from="1647147962851" duration="1783000" />
+      <workItem from="1647149776164" duration="182000" />
+      <workItem from="1647150640129" duration="1783000" />
+      <workItem from="1647152530105" duration="256000" />
+      <workItem from="1647172981239" duration="1067000" />
+      <workItem from="1647186109796" duration="3520000" />
+      <workItem from="1647189687598" duration="1779000" />
+      <workItem from="1647191494672" duration="1644000" />
+      <workItem from="1647253222527" duration="593000" />
+      <workItem from="1647349195883" duration="1774000" />
+      <workItem from="1647350997659" duration="1778000" />
+      <workItem from="1647352804440" duration="1451000" />
+      <workItem from="1647354625541" duration="596000" />
+      <workItem from="1647424945423" duration="622000" />
+      <workItem from="1647428793888" duration="1742000" />
+      <workItem from="1647430602455" duration="2002000" />
+      <workItem from="1647432709606" duration="1449000" />
+      <workItem from="1647434535116" duration="1077000" />
+      <workItem from="1647495805524" duration="737000" />
+      <workItem from="1647512179459" duration="1876000" />
+      <workItem from="1647514082801" duration="1781000" />
+      <workItem from="1647515897525" duration="1463000" />
+      <workItem from="1647518271712" duration="1368000" />
+      <workItem from="1647520712030" duration="1666000" />
+      <workItem from="1647529006107" duration="29000" />
+      <workItem from="1647529744116" duration="624000" />
+      <workItem from="1647532779179" duration="1256000" />
+      <workItem from="1647539918806" duration="621000" />
+      <workItem from="1647540557972" duration="1175000" />
+      <workItem from="1647542537789" duration="1166000" />
+      <workItem from="1647581193292" duration="290000" />
+      <workItem from="1746118290870" duration="3660000" />
+      <workItem from="1746166076254" duration="2447000" />
+      <workItem from="1746174047468" duration="642000" />
+      <workItem from="1746230143644" duration="1223000" />
+      <workItem from="1746778361181" duration="1198000" />
+      <workItem from="1746822106065" duration="436000" />
+      <workItem from="1746822781939" duration="1114000" />
+      <workItem from="1746903903999" duration="1288000" />
+      <workItem from="1747502722970" duration="6059000" />
+      <workItem from="1748368070785" duration="3212000" />
+      <workItem from="1751717706170" duration="56000" />
+      <workItem from="1767419596737" duration="1201000" />
     </task>
     <servers />
   </component>
@@ -211,17 +266,27 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/py_data_struct_py$deep_shallow_copy.coverage" NAME="deep_shallow_copy Coverage Results" MODIFIED="1646741095334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/file_operation_py$iterator.coverage" NAME="iterator Coverage Results" MODIFIED="1647495948810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Python_OOP" />
+    <SUITE FILE_PATH="coverage/file_operation_py$run_length_encoding.coverage" NAME="run_length_encoding Coverage Results" MODIFIED="1746904954253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$set_operations.coverage" NAME="set-operations Coverage Results" MODIFIED="1646718923859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1646760372557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mathematic_package/arithmatics" />
+    <SUITE FILE_PATH="coverage/file_operation_py$class_instance.coverage" NAME="class_instance Coverage Results" MODIFIED="1647521775674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Python_OOP" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$equation_solve.coverage" NAME="equation_solve Coverage Results" MODIFIED="1646761302319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mathematic_package/algebra" />
-    <SUITE FILE_PATH="coverage/file_operation_py$file_operation.coverage" NAME="file_operation Coverage Results" MODIFIED="1647107733002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/file_operation_py$file_operation.coverage" NAME="file_operation Coverage Results" MODIFIED="1647107880310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1646760436486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mathematic_package/geometry" />
+    <SUITE FILE_PATH="coverage/file_operation_py$exception_handling.coverage" NAME="exception_handling Coverage Results" MODIFIED="1647115137060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/file_operation_py$generator.coverage" NAME="generator Coverage Results" MODIFIED="1746166087845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Python_OOP" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$__init____3_.coverage" NAME="__init__ (3) Coverage Results" MODIFIED="1646760471473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mathematic_package/algebra" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$circle_volume_clac.coverage" NAME="circle_volume_clac Coverage Results" MODIFIED="1646762412222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/file_operation_py$obj_built_func.coverage" NAME="obj_built_func Coverage Results" MODIFIED="1647353638095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Python_OOP" />
+    <SUITE FILE_PATH="coverage/file_operation_py$list_index_positional_data.coverage" NAME="list_index_positional_data Coverage Results" MODIFIED="1746822340529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/file_operation_py$lc_algorithm.coverage" NAME="lc_algorithm Coverage Results" MODIFIED="1747508382157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1646760336439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mathematic_package" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$py_data_struct.coverage" NAME="py_data_struct Coverage Results" MODIFIED="1646716801239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$split_join_py.coverage" NAME="split_join_py Coverage Results" MODIFIED="1646765364546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/file_operation_py$encoding_dictionary.coverage" NAME="encoding_dictionary Coverage Results" MODIFIED="1746823063765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$dictionary_.coverage" NAME="dictionary_ Coverage Results" MODIFIED="1646755510296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_data_struct_py$volume.coverage" NAME="volume Coverage Results" MODIFIED="1646762309102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mathematic_package/geometry" />
+    <SUITE FILE_PATH="coverage/file_operation_py$permutation_combination.coverage" NAME="permutation_combination Coverage Results" MODIFIED="1647512926835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Python_OOP" />
   </component>
 </project>

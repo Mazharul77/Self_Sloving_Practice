@@ -3,8 +3,10 @@
 
 Dictinary Encoding: as a partial compression technique of lossless compression
 part-1 : made by Bhuiyan
+
 """
 
+# Dictionary Encoding
 def dictionary_encoding(passed_data):
     compressed_data = []
     dict_data = {}
@@ -31,7 +33,7 @@ def dictionary_encoding(passed_data):
 part-2(Run Length Encoding): for compression without losing data: made by Bhuiyan
 """
 
-
+# Run Length Encoding
 def run_length_encoding_dict(passed_data):
     compression_data = []
     counter = 1
@@ -48,7 +50,7 @@ def run_length_encoding_dict(passed_data):
     return compression_data
 
 
-# Final Part of Full Lossless Compression Algorithm: made with Bhuiyan
+# Final Part of Full Lossless Compression Algorithm: made with Bhuiyan (Dict Enc + RLE)
 def lossless_compression(passed_data):
     print("After Encoding the data:")
     compressd_data, dictionary = dictionary_encoding(passed_data)

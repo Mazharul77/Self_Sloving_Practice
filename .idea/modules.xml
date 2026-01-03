@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://E:/Python_OOP/.idea/Python_OOP.iml" filepath="E:/Python_OOP/.idea/Python_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Self_Sloving_Practice.iml" filepath="$PROJECT_DIR$/.idea/Self_Sloving_Practice.iml" />
     </modules>
   </component>
